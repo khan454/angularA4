@@ -1,0 +1,18 @@
+{
+	"breakfast": [{
+			"name": "Quinoa Fruit Salad",
+			"price": "$7.99",
+			"calories": 200
+		},
+		{
+			"name": "Egg Muffins",
+			"price": "$4.75",
+			"calories": 150
+		},
+		{
+			"name": "Tomato Toast with Ricotta",
+			"price": "$5.99",
+			"calories": 350
+		}
+	]
+}

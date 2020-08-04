@@ -1,0 +1,18 @@
+{
+	"dinner": [{
+			"name": "Pasta",
+			"price": "$24.99",
+			"calories": 500
+		},
+		{
+			"name": "Chicken Pot Pie",
+			"price": "$12.50",
+			"calories": 475
+		},
+		{
+			"name": "Fried Chicken",
+			"price": "$7.99",
+			"calories": 700
+		}
+	]
+}
